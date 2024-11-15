@@ -1,4 +1,4 @@
-# My Favorite Series: **Pokémon**
+# My Favorite Series: **Pokémon** 
 
 ![Pokemon Logo](https://en.m.wikipedia.org/wiki/File:International_Pok%C3%A9mon_logo.svg)
 
